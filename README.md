@@ -10,4 +10,8 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+🔗Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+🔗Working Gradio Space : https://huggingface.co/spaces/prithivMLmods/Beetz-Image-Captioning
+
+🔗Model in HuggingFaces : https://huggingface.co/prithivMLmods/Beetz-Image-Captioning-Blip
