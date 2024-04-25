@@ -15,3 +15,8 @@ license: creativeml-openrail-m
 🔗Working Gradio Space : https://huggingface.co/spaces/prithivMLmods/Beetz-Image-Captioning
 
 🔗Model in HuggingFaces : https://huggingface.co/prithivMLmods/Beetz-Image-Captioning-Blip
+
+![row01](gif1.gif)
+
+
+![row01](img1.png)
