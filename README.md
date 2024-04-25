@@ -16,7 +16,6 @@ license: creativeml-openrail-m
 
 🔗Model in HuggingFaces : https://huggingface.co/prithivMLmods/Beetz-Image-Captioning-Blip
 
-![row01](gif1.gif)
+![alt text](assets/gif1.gif)
 
-
-![row01](img1.png)
+![alt text](assets/img1.png)
