@@ -9,6 +9,7 @@ app_file: app.py
 pinned: false
 license: creativeml-openrail-m
 ---
+Recommended to Deploy inside Huggingface Workspaces
 
 🔗Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
