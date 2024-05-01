@@ -17,7 +17,7 @@ license: creativeml-openrail-m
 
 🥤Model in HuggingFaces : https://huggingface.co/prithivMLmods/Beetz-Image-Captioning-Blip
 
-🚀Uploading Imnage to Captioning Inference
+🚀Uploading Image to Captioning Inference
 
 ![alt text](assets/gif1.gif)
 
