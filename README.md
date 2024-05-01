@@ -11,12 +11,16 @@ license: creativeml-openrail-m
 ---
 ℹ️Recommended to Deploy inside Huggingface Workspaces
 
-🔗Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+🥤Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-🔗Working Gradio Space : https://huggingface.co/spaces/prithivMLmods/Beetz-Image-Captioning
+🥤Working Gradio Space : https://huggingface.co/spaces/prithivMLmods/Beetz-Image-Captioning
 
-🔗Model in HuggingFaces : https://huggingface.co/prithivMLmods/Beetz-Image-Captioning-Blip
+🥤Model in HuggingFaces : https://huggingface.co/prithivMLmods/Beetz-Image-Captioning-Blip
+
+🚀Uploading Imnage to Captioning Inference
 
 ![alt text](assets/gif1.gif)
+
+🚀Result for the Image
 
 ![alt text](assets/img1.png)
