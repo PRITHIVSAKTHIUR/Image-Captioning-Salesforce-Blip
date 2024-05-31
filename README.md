@@ -26,3 +26,9 @@ license: creativeml-openrail-m
 🚀Result for the Image
 
 ![alt text](assets/img1.png)
+
+.
+
+.
+
+.
